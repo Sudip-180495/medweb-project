@@ -1,0 +1,259 @@
+@media (max-width:769px) {
+    .loation-logo {
+        display: none;
+    }
+
+    .nav-logo {
+        width: 200px;
+        right: 0px;
+    }
+
+    .nav-list {
+        width: 500px;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .nav-list-item {
+        font-size: 0.8em;
+    }
+
+    .nav-button {
+        left: 0px;
+    }
+
+    .navbar-button {
+        width: 110px;
+        height: 40px;
+        font-size: 10px;
+        letter-spacing: 0px;
+    }
+
+    .nav-ban-box-3 {
+        background-image: url("../img/responsiv-1.png");
+        height: 705px;
+    }
+
+    .nav-ban-text {
+        font-size: 2.5em;
+    }
+
+    .nav-ban-para {
+        font-size: 12px;
+        margin: 0px 180px;
+        text-align: center;
+    }
+
+    .nav-logo-image {
+        width: 250px;
+        margin-left: 15px;
+    }
+
+    /* about-us-section */
+
+    .about-image {
+        height: 80%;
+    }
+
+    .about-img {
+        height: 80%;
+    }
+
+    .about-content {
+        height: 80%;
+    }
+
+    .about-hdng {
+        font-size: 2.5rem;
+    }
+
+    .about-para {
+        font-size: 0.9rem;
+    }
+
+    #happy-icon {
+        font-size: 4rem;
+    }
+
+    #happy-icon-2 {
+        font-size: 4rem;
+    }
+
+    #happy-icon-3 {
+        font-size: 4rem;
+    }
+
+    #happy-icon-4 {
+        font-size: 4rem;
+    }
+
+    .happy-number {
+        font-size: 2rem;
+    }
+
+    .happy-para {
+        font-size: 1rem;
+    }
+
+    /* service-section */
+
+    .srvs-section {
+        height: 1600px;
+        background-image: url("../img/responsiv-2.png");
+        /* background-color: #2e2d2d; */
+    }
+
+    .srvs-container {
+        height: 1600px;
+        flex-direction: column;
+        /* background-color: #364ade; */
+        /* background-image: url("../img/responsiv-2.png"); */
+    }
+
+    .srvr-content-hdng {
+        font-size: 2.5rem;
+    }
+
+    #srvr-content-2-box-1-icon-1 {
+        font: size 2rem;
+    }
+
+    #srvr-content-2-box-1-icon {
+        font: size 2rem;
+    }
+
+    #srvr-content-2-box-1-icon-2 {
+        font: size 2rem;
+    }
+
+    #srvr-content-2-box-1-icon-3 {
+        font: size 2rem;
+    }
+
+    .srvr-image {
+        height: 100px;
+        display: none;
+    }
+
+    .srvr img {
+        width: 100px;
+        height: 100px;
+    }
+
+    /* Booking-section */
+
+    .contact {
+        height: 1200px;
+    }
+
+    .contact-container {
+        height: 1200px;
+        flex-direction: column;
+    }
+
+    /* Doctor-section */
+
+    .doc-section {
+        height: 1300px;
+    }
+
+    .doc-conatiner {
+        height: 1300px;
+        /* flex-direction: row; */
+    }
+
+    .doc-box-1 {
+        height: 50px;
+    }
+
+    .doc-box-2 {
+        flex-direction: column;
+        height: 1000px;
+    }
+
+    /* Client-section */
+
+    .client-section {
+        height: 1500px;
+    }
+
+    .clnt-container {
+        height: 1500px;
+    }
+
+    .clnt-section-hdng {
+        height: 50px;
+    }
+
+    .clnt-section-content {
+        height: 1300px;
+        flex-direction: column;
+    }
+
+    /* latest-news-section */
+
+    .last-section {
+        height: 2000px;
+    }
+
+    .last-container {
+        height: 2000px;
+    }
+
+    .last-heading {
+        height: 100px;
+    }
+
+    .last-content {
+        height: 1800px;
+        flex-direction: column;
+    }
+
+    /* Footer-section */
+
+    footer {
+        height: 2000px;
+    }
+
+    .ftr-container {
+        height: 2000px;
+        flex-direction: column;
+    }
+
+    .ftr-box-content {
+        align-items: center;
+    }
+
+
+    /* For About Us page */
+
+    .nav-ban-box-3-about-page {
+        background-image: url("../img/responsiv-3.png");
+    }
+
+    .nav-ban-text-abtpage {
+        font-size: 5rem;
+        margin: auto;
+    }
+
+    .nav-ban-para-about-page {
+        font-size: 15px;
+        margin: 0px 100px;
+        text-align: center;
+    }
+
+    /* for service page */
+
+    .nav-ban-para-srv-page {
+        font-size: 20px;
+        margin: 0px 100px;
+        text-align: center;
+
+    }
+
+    /* contact-page */
+
+    .nav-ban-box-3-contact-page {
+        background-image: url("../img/responsiv-4.png");
+    }
+}
